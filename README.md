@@ -3,7 +3,7 @@ A (maybe too) compact script for getting information on connected interfaces
 
 <i><h1>Why?</h1></i>
   - it can come in handy for figuring out devices on your network
-  - faster than an ARP scan and less resource-heavy on other computers
+  - faster than an ARP scan and less resource-heavy on other computers (it also doesn't set off ARP scan detections)
   - you can figure out information about your router (BETA)
   
 <i><h1>What?</h1></i>
