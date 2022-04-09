@@ -252,6 +252,7 @@ function main() {
 Write-Host @"
 [ 	routerview               ]
 [         A tool by stoatsec          ]
+[ https://github.com/stoatsec/routerview/ ]
 "@ -ForegroundColor cyan;
 printHelp;
 while($true) {
