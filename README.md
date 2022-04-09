@@ -17,4 +17,4 @@ A (maybe too) compact script for getting information on connected interfaces
         - get all information on saved Wi-Fi profiles (SSIDs and passwords)
         - save everything to a log file
   </i>
- <img src="routersploit.png"></img>
+ <img src="https://raw.githubusercontent.com/stoatsec/routerview/main/routerview.png"></img>
