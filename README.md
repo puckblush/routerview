@@ -15,4 +15,4 @@ A (maybe too) compact script for getting information on connected interfaces
         - enumerate router info (BETA)<br>
         - get all information on saved Wi-Fi profiles (SSIDs and passwords)<br>
         - save everything to a log file<br>
- <img src="https://raw.githubusercontent.com/stoatsec/routerview/main/routerview.png"></img>
+ <img src="https://raw.githubusercontent.com/puckblush/routerview/main/routerview.png"></img>
